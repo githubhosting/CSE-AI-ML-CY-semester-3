@@ -94,7 +94,8 @@ Algorithm Specification: Understanding the specifications and requirements of an
 
 Data Abstraction: Abstracting the implementation details of a data structure to focus on its essential features and functionality.
 
-2">Arrays and Structures:</li></ol>
+Arrays and Structures:
+
 - Arrays: Arrays are collections of elements of the same data type that are stored in contiguous memory locations. They can be used to store and manipulate a fixed-size collection of data. Arrays in C are zero-indexed, meaning the first element is at index 0, the second element at index 1, and so on. Example:
 
 ```c
